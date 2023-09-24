@@ -6,7 +6,6 @@
 - Organize client and server code so that it is easy to understand and maintain.
 
 ***
-
 ## Key Vocab
 
 - **Full-Stack Development**: development of a frontend and a backend for an
